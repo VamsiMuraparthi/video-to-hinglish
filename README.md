@@ -52,7 +52,7 @@ The Video-to-Hinglish Text Conversion Project consists of a set of Python script
 
 2. Open the `split_and_convert.ipynb` script and customize the parameters according to your needs (e.g., input video filename, duration of video segments).
 
-3. Run the script:
+3. Run the script in Jupyter Notebook:
 
    ```bash
    python split_and_convert.ipynb
