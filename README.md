@@ -48,7 +48,7 @@ The Video-to-Hinglish Text Conversion Project consists of a set of Python script
 
 ## Usage
 
-1. Place the input video file in the project directory.
+1. Place the input video file in the project directory. (I have used "https://www.youtube.com/watch?v=OFvXuyITwBI" video for the entire Project)
 
 2. Open the `split_and_convert.ipynb` script and customize the parameters according to your needs (e.g., input video filename, duration of video segments).
 
